@@ -1,2 +1,3 @@
 # hw01
-! [Alt text] (/Users/cheywakeland-hart/Downloads/macs30500/Hw01/selfie)
+Hello, my name is Cheyenne Wakeland-Hart and I am a rising fourth-year in the college. 
+![Image of me] (https://cheyennewh.github.com/hw01/selfie)
